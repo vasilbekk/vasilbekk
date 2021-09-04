@@ -16,7 +16,7 @@
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
-![Aiogram](https://avatars.githubusercontent.com/u/33784865?s=16&v=4)
+![Aiogram](https://img.shields.io/badge/--%2300C7B7?style=flat-square&logo=)
 
 **Databases**
 
