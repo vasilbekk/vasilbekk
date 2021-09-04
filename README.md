@@ -16,6 +16,7 @@
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![Aiogram](https://img.shields.io/badge/-Aoigram-%2300C7B7?style=flat-square&logo=Aiogram)
 
 **Databases**
 
@@ -36,8 +37,6 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-![vasilbekk languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilbekk&layout=compact&count_private=false&theme=gruvbox)
 
 <!---
 vasilbekk/vasilbekk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
