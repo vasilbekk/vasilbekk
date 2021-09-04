@@ -4,6 +4,10 @@
 - 🇨🇳 大家好，我是 Python 開發人員 - @vasilbekk。
 - 🇺🇦 Привіт, я розробник Python - @vasilbekk.
 
+## Technology stack
+
+
+<img align="right" alt="GIF" src="https://github.com/vasilbekk/vasilbekk/blob/main/developer.gif?raw=true" width="400" height="400" />
 
 <!---
 vasilbekk/vasilbekk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
