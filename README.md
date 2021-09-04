@@ -1,8 +1,9 @@
 ## 👋 Hi there, I’m Python Developer - @vasilbekk.
 
-- 🇷🇺 Приветствую, меня зовут @vasilbekk!
-- 🇨🇳 嗨，我是 @vasilbekk!
-- 🇺🇦 Вітаю, мене звуть @vasilbekk!
+- 🇷🇺 Привет всем, я Python-разработчик - @vasilbekk.
+- 🇨🇳 大家好，我是 Python 開發人員 - @vasilbekk。
+- 🇺🇦 Привіт, я розробник Python - @vasilbekk.
+
 
 <!---
 vasilbekk/vasilbekk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
