@@ -37,7 +37,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilbekk&layout=compact&count_private=true&theme=gruvbox)
+![vasilbekk languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilbekk&layout=compact&count_private=false&theme=gruvbox)
 
 <!---
 vasilbekk/vasilbekk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
