@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Python Developer - @vasilbekk.
+## 👋 Hi there, I’m Python Developer - @vasilbekk
 
 - 🇷🇺 Привет всем, я Python-разработчик - @vasilbekk.
 - 🇨🇳 大家好，我是 Python 開發人員 - @vasilbekk。
