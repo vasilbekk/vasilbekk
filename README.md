@@ -39,7 +39,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Poetry](https://img.shields.io/badge/-Poetry-blue?style=flat-square&logo=Python)
+![Poetry](https://img.shields.io/badge/-Poetry-46a2f1?style=flat-square&logo=Python)
 
 <!---
 vasilbekk/vasilbekk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
