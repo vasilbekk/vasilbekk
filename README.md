@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/vasilbekk/vasilbekk/blob/main/developer.gif?raw=true" width="400" height="400" />
 
-**Back-end**
+# Back-end
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
