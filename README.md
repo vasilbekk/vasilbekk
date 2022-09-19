@@ -2,9 +2,8 @@
 
 - 🇷🇺 Привет всем, я Python-разработчик - @vasilbekk.
 - 🇨🇳 大家好，我是 Python 開發人員 - @vasilbekk。
-
-## Technology stack
 ![vasilekk Github stats](https://github-readme-stats.vercel.app/api?username=vasilbekk&show_icons=true&count_private=true "Github Stats")
+## Technology stack
 
 <img align="right" alt="GIF" src="https://github.com/vasilbekk/vasilbekk/blob/main/developer.gif?raw=true" width="400" height="400" />
 
