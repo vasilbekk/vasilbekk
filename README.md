@@ -32,6 +32,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![RocksDB](https://img.shields.io/static/v1?style=for-the-badge&message=RocksDB&color=2A2A2A&logo=RocksDB&logoColor=FFFFFF&label=)
 
 **Front-end**
 
