@@ -55,8 +55,7 @@
 
 
 <div class="center">
-  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-
+  <img src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"></img>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
   <img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
 </div>
