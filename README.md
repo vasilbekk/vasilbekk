@@ -24,6 +24,7 @@
 ![Aiogram](https://img.shields.io/badge/-Aiogram-%2300bbff?style=for-the-badge&logo=aiogram)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Aiogram](https://img.shields.io/badge/-gorm-%2300bbff?style=for-the-badge&logo=gorm)
 
 **Databases**
 
