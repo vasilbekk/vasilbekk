@@ -1,5 +1,6 @@
-## <img style="margin: 10px" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="Python" height="50" /> 👋 Hi there, I’m Python Developer - @vasilbekk
-
+## 👋 Hi there, I’m Python Developer - @vasilbekk
+<img style="margin: 10px" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" alt="Python" height="50" />
+<img style="margin: 10px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="Git" height="50" />
 ![vasilekk Github stats](https://github-readme-stats.vercel.app/api?username=vasilbekk&show_icons=true&count_private=true "Github Stats")
 ## Technology stack
 
